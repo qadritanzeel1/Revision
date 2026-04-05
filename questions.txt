@@ -1,0 +1,9 @@
+Q.Accept two numbers and print the greatest between them
+
+Q.Accept an integer and check whether it is an even number or odd.
+Q.Accept name and age from the user. Check if the user is a valid voter or not.
+
+Q.Accept three numbers and print the greatest among them
+Q.Accept a year and check if it a leap year or not (google to find out what's a leap year)
+Q.Shop discount - Description on Graphic
+Q.Bijli Bill - Description on Graphic
